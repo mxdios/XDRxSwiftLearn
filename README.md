@@ -48,5 +48,5 @@ pod install
 
 [靛青K神出品RxSwift 学习指导索引](http://t.swift.gg/d/2-rxswift)
 
-
+[RxSwift中文本文档](https://beeth0ven.github.io/RxSwift-Chinese-Documentation/)
 
